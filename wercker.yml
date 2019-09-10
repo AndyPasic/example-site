@@ -11,7 +11,7 @@ build:
 
   - arjen/hugo-build:
         version: "0.55.6"
-        theme: hugo-coder
+        theme: restaurant-hugo
         config: config.toml
 
   - script:
